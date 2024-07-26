@@ -1,0 +1,20 @@
+*{
+    font-family: 'Times New Roman';
+}
+#headingone{
+    text-align: center;
+    text-transform: uppercase;
+}
+body{
+    background-color: #33b3c4;
+    font-family: 'Times New Roman';
+}
+#outerDiv{
+    font-size: 25px;
+    /* line-height: 25px; */
+}
+
+#innerDiv{
+    font-size: 10px;
+    /* line-height: 10px; */
+}

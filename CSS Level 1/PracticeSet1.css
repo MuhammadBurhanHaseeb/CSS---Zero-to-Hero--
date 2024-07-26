@@ -1,0 +1,23 @@
+.divClass{
+    background-color:lightblue ;
+    color:red;
+} 
+textarea{
+    color: blueviolet;
+}
+
+.heading{
+    color:brown;
+    background-color: rgb(24, 182, 235);
+}
+button{
+    background-color: green;
+}
+#box{
+    background-color:lightblue ;
+    color:red;
+}
+header{
+    background-color: rgb(6, 216, 216);
+    color: blueviolet;
+}

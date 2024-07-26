@@ -1,0 +1,75 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(68, 0, 255);
+}
+p{
+    color:coral;
+}
+input{
+    color: green;
+}
+button{
+    color: blue;
+    background-color:#ffff00;
+}
+
+body{
+    background-color: lightblue;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: large;
+}
+#headingOne{
+    color: rgb(255, 0, 191);
+}
+.MyClass{
+    color: rgb(255, 196, 0);
+}
+p{
+    text-align: center;
+    /* text-align: left;
+    text-align: start;
+    text-align: right;
+    text-align: end; */
+    text-decoration: blue wavy;
+}
+.hello{
+    text-align: center;
+    
+}
+/* h3{
+    text-decoration: line-through;
+}
+h2{
+    text-decoration: underline;
+}
+h4
+{
+    text-decoration: overline;
+}
+h5{
+    text-decoration: wavy;
+}
+a{
+    
+    text-decoration-style: wavy ;
+} */
+
+#h11{
+    font: bold;
+}
+#h22{
+    font: lighter;
+}
+#h33{
+    font: normal;
+}
+#h44{
+    font: 900;
+}

@@ -1,0 +1,80 @@
+/* h1{
+font: 100px;
+}
+h2{
+font:700px 
+}
+h3{
+font:normal
+}   
+h4{
+font:bold
+} */
+
+/* #h11{
+    font-weight: lighter;
+}
+#h22{
+    font-weight: lighter;
+}
+#h33{
+    font-weight: bol;
+}
+#h44{
+    font-weight: 200px;
+} */
+ #h11{
+    font-family:'Franklin Gothic Medium';
+}
+#h22{
+    font-family:'Times New Roman';
+}
+#h33{
+    font-family:'Cambria, Cochin';
+}
+#h44{
+    font-family: 'Arial Black';
+} 
+
+#one{
+    font-size: 20px;
+    font-family: 'Arial';
+    font-weight: 100px;
+    text-align: center;
+    
+}
+
+#two{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    font-weight: 100px;
+    text-align: center;
+}
+#o{
+    font-size: 19px;
+   
+    
+}
+
+#w{
+    font-size: 5px;
+   
+}
+#e{
+    font-size: 10px;
+   
+}
+#s{
+    line-height: 2px;
+}
+#h{
+line-height: 20px;
+}
+
+#ss{
+    line-height: 20px;
+    /* text-transform: capitalize; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    text-transform: none;
+}
