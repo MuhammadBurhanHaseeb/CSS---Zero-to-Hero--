@@ -1,0 +1,89 @@
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+}
+
+#box1{
+height: 100px;
+width: 200px;
+background-color: greenyellow;
+font-size: 10px;
+background-image: url('ProfilePhoto.jpg');
+/* background-size: cover; */
+background-size: contain;
+/* background-repeat: no-repeat; */
+/* background-size: auto; */
+}
+#box2{
+height: 50px;
+width: 30%;
+background-color: lightblue;
+margin-left: 10%;
+font-size: 2em;
+width: 4em;
+width: 4rem; 
+}
+#box3{
+    height: 50px;
+    width: 30%;
+    background-color: lightblue;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 4em;
+    width: 4rem; 
+    /* height: 1vh;/*1 percent height of the browser height */
+    /*width: 50vw;50 percent width of the browser height */
+    }
+    #box11{
+        height: 100px;
+        width: 100px;
+        border: 1px solid black;
+        display: inline-block;
+        background-color: red;
+        position:static;
+        top:50px
+    }
+    #box22{
+        height: 100px;
+        width: 100px;
+        border: 1px solid black;
+        display: inline-block;
+        background-color: blue;
+        position: relative;
+        left: 70px;
+        z-index: 1;
+        /* priority zada kr li hai box 3 se  */
+    }
+    #box33{
+        height: 100px;
+        width: 100px;
+        border: 1px solid black;
+        display: inline-block;
+        background-color: green;
+        /* position: absolute; */
+        position: sticky;
+        top: 0px;
+        background-image: url(https://thimpress.com/wp-content/uploads/2022/12/suprema-920x422.jpg);
+        background-size: cover;
+    }
+    #box44{
+        height: 100px;
+        width: 100px;
+        border: 1px solid black;
+        display: inline-block;
+        background-color: yellow;
+        position: fixed;
+        right: 10px;
+        top:0px;
+        /* background-size: cover; */
+        background-image: url('https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png');
+        /* background-size: cover; */
+        background-size: auto;
+    }
+    #mainBox{
+        height: 150px;
+        border: 1px solid black;
+    }
