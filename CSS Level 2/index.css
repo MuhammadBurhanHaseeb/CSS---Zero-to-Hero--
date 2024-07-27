@@ -1,0 +1,93 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;
+}
+div
+{
+    height: 50px;
+    background-color: aquamarine;
+    width: 100px;
+}
+h2
+{
+    width: 200px;
+    height: 40px;
+    background-color: aquamarine;
+}
+#divv{
+    width: 200px;
+    height: 150px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: blanchedalmond;
+    /* align-content: center; */
+    /* text-align: center; */
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    /* border :200 px solid black; */
+
+    border-radius: 10 ;
+    
+}
+#divv1{
+    width: 200px;
+    height: 150px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: blanchedalmond;
+    /* align-content: center; */
+    /* text-align: center; */
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    /* border :200 px solid black; */
+
+    border-radius: 15px;
+    
+}
+#divv2{
+    width: 200px;
+    height: 150px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: blanchedalmond;
+    /* align-content: center; */
+    /* text-align: center; */
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    /* border :200 px solid black; */
+
+    border-radius: 20px ;
+    
+}
+
+#divv3{
+    width: 200px;
+    height: 150px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: blanchedalmond;
+    /* align-content: center; */
+    /* text-align: center; */
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    /* border :200 px solid black; */
+
+    border-radius: 50% ;
+    border-image-width: 50%;
+    
+}
+/* img{
+    ;
+} */
