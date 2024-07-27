@@ -1,0 +1,38 @@
+.navbar{
+    border: 2px solid black ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-decoration: none;
+    background-color: antiquewhite;
+}
+li{
+    display: inline-block;
+   
+    list-style-type: none;
+    
+}
+a{
+    text-decoration-line: none;
+    color: black;
+    background-color: aqua;
+}
+#outerDiv
+{
+    height: 200px;
+    width: 300px;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    /* align-content: center; */
+}
+#innerDiv
+{
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+    /* align-self: end; align slef have higher property thaen the align items */
+}
