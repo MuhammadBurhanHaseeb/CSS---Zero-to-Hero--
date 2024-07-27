@@ -1,0 +1,71 @@
+h1
+{
+    text-align:center;
+}
+#myDiv{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black ;
+    background-color: lightblue;
+    /* animation-name: myname;
+    animation-duration: 1s;
+    animation-iteration-count: infinite; */
+    /* animation-direction: alternate;  */
+    /* border-radius: 50%; */
+    /* animation-direction: alternate-reverse; */
+    /* animation-direction: reverse;  */
+
+    position: absolute;
+    animation:myname 2s linear 0s infinite normal;
+
+}
+#myDiv:hover{
+    /* background-color: lightcoral; */
+    /* transition-duration:2s ;
+    font-size: large; */
+    /* transition-timing-function: ease; */
+    /* transition-timing-function: ease-in; */
+    /* transition-timing-function: ease-in-out; */
+    /* transition-timing-function: ease-out; */
+    /* transition-timing-function: linear; */
+    /* transition-timing-function: step-end; */
+    /* transition-timing-function: step-start; */
+    /* transition-timing-function: steps(4, end);*/
+    /* transition-timing-function: steps(4);  */
+    /* transition-delay: 5s; */
+    /* transition: all 2s ease-in-out 0s; */
+    /* transform: rotate(45deg); */
+    /* rotate:45deg ; */
+    /* rotate:z 90deg;
+     transform: scale(0.8);  */
+     /* transform: skew( 20deg, 90deg);  */
+     /* transform:translate(50px) ; */
+     /* transform:translate(20px,20px); */
+}
+@keyframes myname {
+    /* from{left:0px}
+    to{left:200px} */
+    /* 0%{font-size:20px }
+    50%{font-size:40px}
+    100%{font-size:20px} */
+    /* from{background-color: lightblue;}
+    to{background-color: lightcoral;} */
+    /* from{transform: rotate(0deg);}
+    to{transform: rotate(180deg);} */
+    
+}
+#myDiv:active{
+    background-color: lightgreen;
+    transition-duration:2s ;
+}
+button:hover{
+    background-color: lightgreen;
+    transition-duration:2s ;
+    transition-timing-function: linear;
+
+}
+button:active{
+    background-color: lightcoral;
+    transition-duration:2s ;
+
+}

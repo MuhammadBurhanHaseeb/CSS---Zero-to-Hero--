@@ -1,0 +1,22 @@
+#Loader
+{
+height: 100px;
+width: 100px;
+background-color: lightblue;
+border-radius: 50%;
+border: 5px solid rgb(70, 69, 67);
+border-top: 5px solid white;
+animation: spin 1s linear infinite;
+display:flex;
+justify-content: center;
+align-items: center;
+
+}
+@keyframes spin{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
